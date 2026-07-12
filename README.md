@@ -1,3 +1,5 @@
+> **Archived.** This repo hasn't been iterated on since Feb 2026 and its APQC coverage was superseded by [apqc-pcf-master](https://github.com/sillinous/apqc-pcf-master), which is actively maintained, has real external forks, and ships an installable Claude skill. If you're looking for the agent-catalog / workflow-automation angle this repo was building toward, that work hasn't been carried forward yet — open an issue on apqc-pcf-master if you want to pick it up.
+
 # APQC Strategic Framework Website
 
 Interactive website showcasing the APQC Process Classification Framework for AI Agent Ecosystems.
